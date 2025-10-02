@@ -1,0 +1,12 @@
+gradio
+transformers
+pydantic 
+sentence-transformers
+langchain 
+huggingface_hub 
+transformers 
+langchain-huggingface
+langchain-community 
+langchain-core
+pypdf
+faiss-cpu
